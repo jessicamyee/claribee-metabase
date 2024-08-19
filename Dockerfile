@@ -1,1 +1,1 @@
-FROM metabase/metabase:latest
+FROM metabase/metabase:v50.20.3
